@@ -1,3 +1,31 @@
 body {
-	background: gray
+	background: lightgray;
+	font-family: helvetica;
+}
+
+#POD {
+	padding: 5px;
+	border-style: groove;
+}
+
+table {
+	margin: 10px;
+}
+
+footer.index {
+	padding-top: 15px;
+	text-align: center;
+}
+
+#resourcesbody {
+	background-image: url(http://detroit.tigers.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/det_1200x630.jpg);
+	background-repeat: repeat-x;
+}
+
+.red {
+	color: red;
+}
+
+a:visited {
+    color: darkorange;
 }
